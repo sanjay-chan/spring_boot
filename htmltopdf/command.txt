@@ -1,0 +1,2 @@
+javac -cp pdfbox-3.0.2.jar;commons-logging-x.x.jar HtmlToPdfConverter.java
+java -cp .;pdfbox-3.0.2.jar;commons-logging-x.x.jar HtmlToPdfConverter
